@@ -10,3 +10,15 @@
 **Link(s) to work**
 1. [Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
 2. [Pig Latin](https://www.freecodecamp.org/challenges/pig-latin)
+
+
+### Day 2: December 30, saturday
+
+**Today's Progress**: I started learning Redux intermediate level and also fixed a error in Reduxtragram
+
+**Thoughts** Getting grip on Redux 
+
+**Link(s) to work**
+1. [Redux_Intermediate](https://github.com/charan1922/redux_intermediate)
+2. [Reduxtragram](https://github.com/charan1922/Reduxtragram)
+
