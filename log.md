@@ -22,3 +22,13 @@
 1. [Redux_Intermediate](https://github.com/charan1922/redux_intermediate)
 2. [Reduxtragram](https://github.com/charan1922/Reduxtragram)
 
+
+### Day 3: December 31, sunday
+
+**Today's Progress**: Solved a RegEx based program in Js and worked on Redux based project which displays car details
+
+**Thoughts** I got bit more understanding on redux 
+
+**Link(s) to work**
+1. [Redux_Intermediate](https://github.com/charan1922/redux_intermediate)
+2. [RegEx program](https://repl.it/@charan1922/regX-js-1235-86-10m)
