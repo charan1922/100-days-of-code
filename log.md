@@ -32,3 +32,14 @@
 **Link(s) to work**
 1. [Redux_Intermediate](https://github.com/charan1922/redux_intermediate)
 2. [RegEx program](https://repl.it/@charan1922/regX-js-1235-86-10m)
+
+
+### Day 4: January 2, 2018 Tuesday
+
+**Today's Progress**: Started Learning React Native
+
+**Thoughts** Got basic idea on Native structure
+
+**Link(s) to work**
+1. [React Native](https://repl.it/community/classrooms/17650)
+
