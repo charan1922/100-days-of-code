@@ -46,7 +46,7 @@
 
 ### Day 5: January 3, 2018 Wednesday
 
-**Today's Progress**: Made little progress, Wasted lot of time in setting Expo 
+**Today's Progress**: Made little progress, Wasted lot of time in setting Expo, android studio and genymotion
 
 **Thoughts** Learnt how to us expo, 
 
