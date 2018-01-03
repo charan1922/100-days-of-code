@@ -43,3 +43,12 @@
 **Link(s) to work**
 1. [React Native](https://repl.it/community/classrooms/17650)
 
+
+### Day 5: January 3, 2018 Wednesday
+
+**Today's Progress**: Made little progress, Wasted lot of time in setting Expo 
+
+**Thoughts** Learnt how to us expo, 
+
+**Link(s) to work**
+1. [React Native](No links today, worked on my localhost)
