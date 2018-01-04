@@ -61,3 +61,14 @@ Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM
 **Link(s) to work**
 1. [React Native](No links today, worked on my localhost)
 
+
+
+
+### Day 6: January 4, 2018 Thursday
+
+**Today's Progress**: Error in connecting mobile phone to native code 
+
+**Thoughts** made progess in native coding 
+
+**Link(s) to work**
+1. [React Native](https://github.com/charan1922/reactnative_practice)
