@@ -76,9 +76,22 @@ Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM
 
 ### Day 7: January 5, 2018 Friday
 
-**Today's Progress**: Built a Album App
+**Today's Progress**: Built an Album App
 
 **Thoughts**  learn all basics in designing React Native app, got idea on how to structure react app.
 
 **Link(s) to work**
 1. [Taylor Shift Albums](https://github.com/charan1922/TaylorShiftAlbum/tree/master)
+
+
+### Day 8: January 6, 2018 Saturday
+
+**Today's Progress**: Built News App by using API
+
+**Thoughts** 1.worked with Axios to fetch api. 
+2.learned about various sections in React app like
+card , card section, linking , react-native styling , 
+3.encountered various errors
+**Link(s) to work**
+1. [News-App](https://github.com/charan1922/News-App)
+
