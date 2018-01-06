@@ -72,3 +72,13 @@ Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM
 
 **Link(s) to work**
 1. [React Native](https://github.com/charan1922/reactnative_practice)
+
+
+### Day 7: January 5, 2018 Friday
+
+**Today's Progress**: Built a Album App
+
+**Thoughts**  learn all basics in designing React Native app, got idea on how to structure react app.
+
+**Link(s) to work**
+1. [Taylor Shift Albums](https://github.com/charan1922/TaylorShiftAlbum/tree/master)
