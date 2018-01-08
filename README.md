@@ -95,3 +95,10 @@ card , card section, linking , react-native styling ,
 **Link(s) to work**
 1. [News-App](https://github.com/charan1922/News-App)
 
+### Day 9&10 : January 7,8, 2018 Sunday, Monday
+
+**Today's Progress**: added Redux to News App 
+
+**Thoughts** worked with Redux + axios
+**Link(s) to work**
+1. [News-App](https://github.com/charan1922/News-App)
